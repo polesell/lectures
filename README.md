@@ -1,1 +1,3 @@
 # lectures
+
+Repository of notebooks
